@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinta Sankarraj</h1>
 
 <h3 align="center">
-Software Developer | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
+Software Engineer | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
 </h3>
 
 
@@ -37,19 +37,17 @@ Software Developer | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
 - 🌱 Learning Spring Boot & React
 - 💻 Interested in Backend & Full Stack Development
 - 🚀 Building real-world web applications
-- 📍   Hyderabad, India — open to AI/ML internships
+- 📍   Hyderabad, India — open to AI/ML internships & Software Engineering Opportunities
 - 📫 Reach me: **chintasankarraj@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📺 YouTube InsightX
-Real-time YouTube Analytics Dashboard using Python, Streamlit, Plotly and YouTube Data API.
-
-### 🌦 SkyCast Weather Dashboard
-Modern weather dashboard with AQI, Forecast, Charts and Geolocation.
-
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📺 YouTube InsightX | Real-time analytics dashboard with trending score and data visualizations | Python, Streamlit, Plotly |
+| 🌦 SkyCast | Weather dashboard with AQI, forecast, charts and geolocation | HTML, CSS, JavaScript |
 ---
 ## 🛠️ Tech Stack
 
