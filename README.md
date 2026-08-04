@@ -4,6 +4,17 @@
 Software Engineering Student | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
 </h3>
 
+
+<p align="center">
+🎓 Final Year Computer Science Student <br>
+💻 Passionate about Backend Development & Full Stack Engineering <br>
+🚀 Currently learning Spring Boot & System Design <br>
+🧩 Solved 200+ LeetCode Problems
+</p>
+
+---
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -19,15 +30,6 @@ Software Engineering Student | Java Developer | Full Stack Enthusiast | AI/ML En
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-<p align="center">
-🎓 Final Year Computer Science Student <br>
-💻 Passionate about Backend Development & Full Stack Engineering <br>
-🚀 Currently learning Spring Boot & System Design <br>
-🧩 Solved 200+ LeetCode Problems
-</p>
-
----
 
 ## 👨‍💻 About Me
 
