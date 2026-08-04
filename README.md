@@ -4,6 +4,22 @@
 Software Engineering Student | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
 </h3>
 
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/chintasankarraj/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/chintasankar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:chintasankarraj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 <p align="center">
 🎓 Final Year Computer Science Student <br>
 💻 Passionate about Backend Development & Full Stack Engineering <br>
@@ -15,12 +31,13 @@ Software Engineering Student | Java Developer | Full Stack Enthusiast | AI/ML En
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE Student
+- 🎓 Final Year B.Tech CSE Student at Gokaraju Rangaraju Institute of Engineering & Technology, graduating July 2027
 - ☕ Strong in Java
 - 🌱 Learning Spring Boot & React
 - 💻 Interested in Backend & Full Stack Development
 - 🚀 Building real-world web applications
-- 📫 Reach me: **your-email@example.com**
+- 📍   Hyderabad, India — open to AI/ML internships
+- 📫 Reach me: **chintasankarraj@gmail.com**
 
 ---
 
@@ -60,21 +77,7 @@ Modern weather dashboard with AQI, Forecast, Charts and Geolocation.
   <img src="https://streak-stats.demolab.com?user=chintasankarraj&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/chintasankarraj/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/chintasankar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:chintasankarraj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
 
 
 ## 👀 Profile Views
