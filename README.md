@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinta Sankarraj</h1>
 
 <h3 align="center">
-Software Engineering Student | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
+Software Developer | Java Developer | Full Stack Enthusiast | AI/ML Enthusiast
 </h3>
 
 
