@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chinta Sankarraj</h1>
 
-<!--
-**chintasankarraj/chintasankarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineering Student | Java Developer | Full Stack Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 Final Year Computer Science Student <br>
+💻 Passionate about Backend Development & Full Stack Engineering <br>
+🚀 Currently learning Spring Boot & System Design <br>
+🧩 Solved 200+ LeetCode Problems
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final Year B.Tech CSE Student
+- ☕ Strong in Java
+- 🌱 Learning Spring Boot & React
+- 💻 Interested in Backend & Full Stack Development
+- 🚀 Building real-world web applications
+- 📫 Reach me: **your-email@example.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 📺 YouTube InsightX
+Real-time YouTube Analytics Dashboard using Python, Streamlit, Plotly and YouTube Data API.
+
+### 🌦 SkyCast Weather Dashboard
+Modern weather dashboard with AQI, Forecast, Charts and Geolocation.
+
+---
