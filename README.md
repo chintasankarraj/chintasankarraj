@@ -282,8 +282,9 @@ AI Engineering
   └── AI Agents
   └── Vector Databases
 
+---
 
-🎯 2026 Goals
+# 🎯 2026 Goals
 🚀 Secure a Software Engineering role
 ☕ Strengthen Java & backend development
 🧠 Improve DSA and problem solving
