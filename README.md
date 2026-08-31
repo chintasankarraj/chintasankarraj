@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hi, I'm Chintasankarraj
 
 ### Software Engineer | Java • Full Stack • AI Engineering
@@ -280,3 +281,44 @@ AI Engineering
   └── RAG
   └── AI Agents
   └── Vector Databases
+
+
+🎯 2026 Goals
+🚀 Secure a Software Engineering role
+☕ Strengthen Java & backend development
+🧠 Improve DSA and problem solving
+🏗️ Learn System Design
+🤖 Build production-ready AI applications
+📚 Deepen knowledge of LLMs and RAG
+🌐 Build scalable full-stack applications
+🌟 Contribute to open-source projects
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chintasankarraj&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintasankarraj&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=chintasankarraj&theme=tokyonight&hide_border=true" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chintasankarraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </p>
+👀 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chintasankarraj&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
+🤝 Let's Connect
+
+I'm always interested in:
+
+💼 Software Engineering Opportunities
+🌐 Full Stack Development
+☕ Java & Backend Development
+🤖 AI / LLM Applications
+🧠 Machine Learning
+🚀 Open Source
+🤝 Collaboration
+<p align="center"> <a href="https://github.com/chintasankarraj"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/chintasankarraj/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
+💡 Quote
+
+"Build. Learn. Solve. Repeat."
+
+<p align="center">
+🚀 Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</p> ```
