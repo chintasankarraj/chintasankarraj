@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Chintasankarraj
+<h1 align="center">Hi 👋, I'm Chintasankarraj</h1> 
 
-## Software Engineer | Java • Full Stack • AI Engineering
+<h3 align="center"> Software Engineer | Java • Full Stack • AI Engineering • AI/ML Enthusiast </h3>
 
 Building real-world applications with **Java, Python, modern web technologies, and AI.**
 
@@ -12,6 +12,10 @@ Building real-world applications with **Java, Python, modern web technologies, a
 
 <a href="https://www.linkedin.com/in/chintasankarraj/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:chintasankarraj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
 </a>
 
 </p>
@@ -33,6 +37,8 @@ Building real-world applications with **Java, Python, modern web technologies, a
 🚀 I enjoy turning ideas into practical, user-focused software.
 
 🧩 Solved **200+ LeetCode problems**.
+
+📍   Hyderabad, India — open to AI/ML internships & Software Engineering Opportunities - 📫 Reach me: **chintasankarraj@gmail.com**
 
 🎯 Currently preparing for **Software Engineering, Full Stack, Backend, and AI Engineering opportunities**.
 
