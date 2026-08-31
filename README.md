@@ -1,5 +1,5 @@
-<div align="center">
-# 👋 Hi, I'm Chintasankarraj
+
+👋 Hi, I'm Chintasankarraj
 
 ### Software Engineer | Java • Full Stack • AI Engineering
 
