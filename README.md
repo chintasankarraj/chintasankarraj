@@ -2,7 +2,7 @@
 
 <h3 align="center"> Software Engineer | Java • Full Stack • AI Engineering • AI/ML Enthusiast </h3>
 
-Building real-world applications with **Java, Python, modern web technologies, and AI.**
+<h3 align="center"> Building real-world applications with **Java, Python, modern web technologies, and AI.** </h3>
 
 <p align="center">
 
