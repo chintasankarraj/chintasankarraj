@@ -199,6 +199,8 @@ Random Forest Classifier using:
 🔗 **Repository:**  
 https://github.com/chintasankarraj/YouTube-InsightX
 
+🚀 **Live Demo:**  
+https://yta-insightx-chintasankarraj.streamlit.app/
 ---
 
 ## 🌤️ SkyCast
